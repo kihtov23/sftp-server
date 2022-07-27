@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sftp-console-app", "sftp-console-app\sftp-console-app.csproj", "{FBBA52B9-698F-4AB1-BBE2-41D21EC6B647}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBBA52B9-698F-4AB1-BBE2-41D21EC6B647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBA52B9-698F-4AB1-BBE2-41D21EC6B647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBA52B9-698F-4AB1-BBE2-41D21EC6B647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBA52B9-698F-4AB1-BBE2-41D21EC6B647}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD76FC30-2B5A-4101-9744-11B043863685}
+	EndGlobalSection
+EndGlobal

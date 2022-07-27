@@ -1,0 +1,28 @@
+About feature 
+https://docs.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support
+
+How to connect to Azure with SFTP
+https://docs.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support-how-to?tabs=azure-portal
+
+Create storage account
+Disable soft delete “Blob Delete Retention Enabled”
+https://docs.microsoft.com/en-us/azure/storage/blobs/soft-delete-blob-enable?tabs=azure-portal
+
+Upgrade Azure Blob Storage with Azure Data Lake Storage Gen2 capabilities
+https://docs.microsoft.com/en-us/azure/storage/blobs/upgrade-to-data-lake-storage-gen2-how-to?tabs=azure-portal 
+
+Create local user 
+Programatically API https://docs.microsoft.com/en-us/cli/azure/storage/account/local-user?view=azure-cli-latest 
+
+Connect via FileZilla client
+Host: 
+sftp://sftpstorageaccounteu.blob.core.windows.net
+User: sftpstorageaccounteu.[containername].[username] //usere
+Pass: +llee159GmdY1dBfLVbeKd0fwPyMYMjCdCbZbAnzDXYbwa/Csrgh3XNrrjct4mjFCw6u7mcbxZZCsycghPc8MA==
+Port: 22
+
+— 
+Create FTP server 
+Test how to create users programmatically 
+Create API with POST user endpoint 
+Publish API to Azure App Service 
