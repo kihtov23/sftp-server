@@ -18,7 +18,7 @@ Connect via FileZilla client
 Host: 
 sftp://sftpstorageaccounteu.blob.core.windows.net
 User: sftpstorageaccounteu.[containername].[username] //usere
-Pass: +llee159GmdY1dBfLVbeKd0fwPyMYMjCdCbZbAnzDXYbwa/Csrgh3XNrrjct4mjFCw6u7mcbxZZCsycghPc8MA==
+Pass: [password]
 Port: 22
 
 — 
